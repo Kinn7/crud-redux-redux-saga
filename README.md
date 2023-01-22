@@ -1,3 +1,3 @@
-## This react app is create by vite
-## npm install
-## npm run dev
+## This react app is created by vite
+## -- npm install
+## -- npm run dev
